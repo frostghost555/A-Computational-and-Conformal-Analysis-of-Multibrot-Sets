@@ -1,0 +1,2 @@
+# A-Computational-and-Conformal-Analysis-of-Multibrot-Sets
+Independent mathematical investigation of generalized Multibrot sets, presenting results on numerical area approximation and convergence, rotational and reflection symmetries, boundary morphology, Laurent coefficient computation, conformal mapping, and Gronwall-based validation, together with computational evidence and theoretical analysis.
