@@ -1,6 +1,6 @@
 # A Computational and Conformal Analysis of Multibrot Sets
 
-This repository contains the latest version of my research paper, *A Geometric Exploration of Generalized Mandelbrot Sets*.
+This repository contains the latest versions of my research paper, *A Geometric Exploration of Generalized Mandelbrot Sets*.
 
 ## Abstract
 
